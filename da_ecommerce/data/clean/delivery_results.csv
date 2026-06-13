@@ -1,0 +1,5 @@
+delivery_bucket,order_count,avg_review_score,satisfaction_pct,avg_order_value_brl
+1. Under 5 days,19154,4.43,86.5,132.24
+2. 6-10 days,32685,4.35,84.4,155.76
+3. 11-20 days,31673,4.19,80.0,169.92
+4. Over 20 days,12299,3.12,49.8,185.67
